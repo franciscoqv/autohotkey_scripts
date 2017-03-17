@@ -38,6 +38,6 @@ A folder's window will appear, where you will have to copy and paste the script.
 
 <img class="alignnone size-full wp-image-685" src="https://panchoqv.files.wordpress.com/2017/03/capture3.png" alt="Capture3.PNG" width="950" height="593" />
 
-And it's done! If you have any questions, please ask it on the comment's section below.
+And it's done! If you have any questions, please feel free to contact me.
 
 Thank you =)
